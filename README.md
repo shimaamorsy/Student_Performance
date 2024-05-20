@@ -27,10 +27,7 @@ The Student Performance dataset comprises approximately 300 rows and 15 attribut
 2. Ensure MongoDB and jupyter is installed and running locally.
 
 3. Run the application:
-
-    ```bash
     run Performance.ipynb on jupyter
-    ```
 
 ## Usage
 
