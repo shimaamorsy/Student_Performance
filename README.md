@@ -21,15 +21,15 @@ The Student Performance dataset comprises approximately 300 rows and 15 attribut
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/shimaamorsy/Student_Performance/tree/master.git
+    git clone https://github.com/shimaamorsy/Student_Performance.git
     ```
 
-2. Ensure MongoDB is installed and running locally.
+2. Ensure MongoDB and jupyter is installed and running locally.
 
 3. Run the application:
 
     ```bash
-    python Student Performance.ipynb
+    run Performance.ipynb on jupyter
     ```
 
 ## Usage
